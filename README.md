@@ -11,10 +11,12 @@ Profile photo and short introduction
 Education and skills section
 Links to my GitHub and contact info
 Simple, clean design that works on phone and desktop
+
 🛠️ Built With
 HTML
 CSS
 Git & GitHub
+
 📁 Project Structure
 my-basic-_project/
 ├── index.html      # main page
@@ -22,6 +24,7 @@ my-basic-_project/
 ├── images/
 │   └── profile.jpg # profile photo
 └── README.md
+
 🚀 How to Run
 Clone the repository
 bash
@@ -42,18 +45,10 @@ Styling with CSS (colors, fonts, layout)
 Using Git commands: clone, add, commit, push
 Connecting to GitHub with an SSH key
 Publishing a website with GitHub Pages
+
 🔮 Future Improvements
  Add a projects section
  Add dark mode
  Add a contact form
 👤 Author
-
-Phyo Computer Engineering student at Soongsil University 🇰🇷
-
-GitHub: @haddy256
-
-See task progress for longer tasks.
-
-README.md
-
-Track tools and referenced files used in this task.
+Hein Htet Khaing
